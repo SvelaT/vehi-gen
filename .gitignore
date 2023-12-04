@@ -1,0 +1,5 @@
+#ignore the dataset
+./dataset/*
+
+#ignore the resulting images
+./result/*
